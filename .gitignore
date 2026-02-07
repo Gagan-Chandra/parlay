@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual envs
+loan_env/
+.venv/
+venv/
+env/
+
+# OS/IDE
+.vscode/
+.DS_Store
+
+# Model / data artifacts (adjust if needed)
+*.pkl
+*.joblib
+*.bin
+*.csv
+*.xlsx
+*.parquet
+*.zip
+*.tar.gz
+*.log
